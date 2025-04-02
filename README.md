@@ -5,7 +5,7 @@
 - 🏎️ **Member of Sapienza Fast Charge Formula Student Driverless Team**
   - Working on **SLAM & Sensor Fusion** for autonomous racing!
 - 💻 Passionate about **C, C++, and Python**
-- 🐧 Linux Enthusiast (Arch btw... well, **EndeavourOS + KDE**)
+- 🐧 Linux Enthusiast
 - 🚀 **Space Enthusiast**, aspiring to work in the aerospace industry!
 
 #### 🔧 Tech Stack
